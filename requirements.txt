@@ -1,0 +1,5 @@
+customtkinter
+requests
+pyperclip
+pyinstaller
+beautifulsoup4
